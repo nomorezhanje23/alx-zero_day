@@ -1,1 +1,1 @@
-My first readme
+This is allowed only once.
